@@ -1,5 +1,6 @@
-public class InterviewQA {
-    /*
+public class ALLINTERVIEW {
+
+/*
 1.
    YOU WILL USE 3 WAY TO DO THAT.
     1 WHILE LOOP  2 FOR LOOP AND  3 FOR LOOP by using "FREQUENCY"
@@ -2175,4 +2176,6 @@ continue;
  */
 
 
-}
+    }
+
+
