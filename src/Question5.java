@@ -20,7 +20,7 @@ second
         ArrayList<Integer> fromMinToMax = new ArrayList<>();
         for (int i = 0; i < list.size(); i++) {
             fromMinToMax.add(Collections.min(list));
-            list.remove(Collections.min(list));
+           list.remove(Collections.min(list));
             i--;
         }
         System.out.println(fromMinToMax);
